@@ -1,0 +1,32 @@
+main{
+    width: 980px;
+    height: 680px;
+    margin: auto;
+    background-color: #00ffff;
+}
+header{
+    height: 150px;
+    background-color:red
+}
+nav{
+    height: 60px;
+    background-color: blue;
+}
+article{
+    width: 580px;
+    height: 390px;
+    background-color: chartreuse;
+    float: right;
+    
+}
+aside{
+    width: 400px;
+    height: 390px;
+    background-color:yellow;
+}
+
+footer{
+    height: 80px;
+    width: 100;
+    background-color:blueviolet
+}
